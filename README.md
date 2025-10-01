@@ -21,4 +21,4 @@ To run the Sloth Slot Machine locally, follow these steps:
 
 1. Clone the repository:    
    ```bash
-   git clone https://github.com/Alfred-KInyua/sloth-slot-machine.git
+   git clone https://github.com/Alfred-KInyua/slot-machine-.git
