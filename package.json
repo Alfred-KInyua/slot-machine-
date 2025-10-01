@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alfred-KInyua/slot-machine-/issues"
   },
-  "homepage": "https://github.com/Alfred-KInyua/slot-machine-#readme"
+  "homepage": "https://github.com/Alfred-KInyua/slot-machine-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
