@@ -1,6 +1,6 @@
-# Sloth Slot Machine
+# Let's play a game!!!
 
-Welcome to the **Sloth Slot Machine**, a fun and engaging web-based game that simulates the excitement of a classic slot machine with a delightful sloth theme!
+Welcome to the **Slot Machine**, a fun and engaging web-based game that simulates the excitement of a classic slot machine with a delightful sloth theme!
 
 ## Features
 
