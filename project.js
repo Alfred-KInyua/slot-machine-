@@ -78,11 +78,22 @@ const transpose = (reels) => {
   }
   return rows;
 };
+const printRows = (rows) => {
+  for (const row of rows) {
+    let rowString = "";
+    for (const [i, symbol] of row.entries()) {
+      rowString += symbol;
+      if (i != row.length - 1) {
+        rowString += " | ";
+      }
+    }
+    console.log(rowString);
+  }
+};
 
 let balance = deposit();
 const lines = get_num_of_lines();
 const bet = get_bet(balance, lines);
 const reels = spin();
 const rows = transpose(reels);
-console.log(reels);
-console.log(rows);
+printRows(rows);
