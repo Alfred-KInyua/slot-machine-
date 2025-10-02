@@ -22,3 +22,11 @@ To run the Sloth Slot Machine locally, follow these steps:
 1. Clone the repository:    
    ```bash
    git clone https://github.com/Alfred-KInyua/slot-machine-.git
+
+##How to Use
+**Install dependencies: npm install prompt-sync**
+**Save the code in a file (e.g., index.js)**
+**Run with Node.js: node index.js**
+**Follow the on-screen prompts to play**
+The animation creates a realistic slot machine experience in the terminal, with symbols spinning and gradually settling into their final positions. Winning combinations are highlighted for immediate visual feedback.
+
